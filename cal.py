@@ -12,4 +12,8 @@ class FourCal:
     def subtraction(self):
         result = self.first - self.second
         return result
+    def multiply(self):
+        result = self.first * self.second
+        return result
+
 
