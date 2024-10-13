@@ -15,5 +15,7 @@ class FourCal:
     def multiply(self):
         result = self.first * self.second
         return result
-
+    def mod(self):
+        result = self.first % self.second
+        return result
 
