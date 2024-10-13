@@ -18,4 +18,7 @@ class FourCal:
     def mod(self):
         result = self.first % self.second
         return result
+    def division(self):
+        result = self.first / self.second
+        return result
 
